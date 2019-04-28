@@ -270,7 +270,7 @@ export const adjectives = [
   'worker',
   'leader',
   'redeemable',
-  'propogated'
+  'propagated'
 ]
 
 export const nouns = [
@@ -631,6 +631,7 @@ export const nouns = [
   'computer',
   'compute',
   'calculator',
-  'calculation'
+  'calculation',
+  'propagation'
 ]
 
