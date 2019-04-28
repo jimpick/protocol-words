@@ -3,6 +3,10 @@ protocol-words
 
 Some protocol-ish words. Adjectives and nouns.
 
+# Demo
+
+* [http://protocol-words.jimpick.com/](http://protocol-words.jimpick.com/)
+
 # Usage
 
 ES modules:
