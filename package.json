@@ -1,0 +1,20 @@
+{
+  "name": "protocol-words",
+  "version": "0.0.1",
+  "description": "Adjectives and nouns that are protocolish",
+  "main": "dist/words.js",
+  "module": "words.js",
+  "type": "module",
+  "scripts": {
+    "build": "rollup words.js --file dist/words.js --format cjs",
+    "test": "node --experimental-modules test.js",
+    "prepublish": "npm run build"
+  },
+  "keywords": [],
+  "author": "Jim Pick (@jimpick)",
+  "license": "MIT",
+  "devDependencies": {
+    "haikunator": "^2.1.1",
+    "rollup": "^1.10.1"
+  }
+}
