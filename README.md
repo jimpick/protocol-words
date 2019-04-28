@@ -5,7 +5,7 @@ Some protocol-ish words. Adjectives and nouns.
 
 # Demo
 
-* [http://protocol-words.jimpick.com/](http://protocol-words.jimpick.com/)
+* [https://protocol-words.jimpick.com/](https://protocol-words.jimpick.com/)
 
 # Usage
 
