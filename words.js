@@ -1,4 +1,10 @@
 export const adjectives = [
+  'calculated',
+  'modeled',
+  'modelled',
+  'parsed',
+  'instruction',
+  'reduced',
   'standardized',
   'private',
   'quantum',
@@ -612,6 +618,19 @@ export const nouns = [
   'cipher',
   'cryptography',
   'privacy',
-  'standard'
+  'standard',
+  'reducer',
+  'challenge',
+  'database',
+  'vm',
+  'instruction',
+  'parser',
+  'schema',
+  'behavior',
+  'behaviour',
+  'computer',
+  'compute',
+  'calculator',
+  'calculation'
 ]
 
