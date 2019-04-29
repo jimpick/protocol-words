@@ -1,6 +1,6 @@
 {
   "name": "protocol-words",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Adjectives and nouns that are protocolish",
   "main": "dist/words.js",
   "module": "words.js",

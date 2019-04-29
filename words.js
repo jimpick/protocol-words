@@ -122,7 +122,7 @@ export const adjectives = [
   'faster',
   'safer',
   'safe',
-  'sharable',
+  'shareable',
   'shared',
   'expected',
   'hyper',
