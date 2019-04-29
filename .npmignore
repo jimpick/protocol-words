@@ -1,2 +1,5 @@
 !dist
 yarn-error.log
+sample-web
+test.js
+*.gif
