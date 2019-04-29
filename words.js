@@ -195,6 +195,7 @@ export const adjectives = [
   'pico',
   'milli',
   'mini',
+  'kilo',
   'mega',
   'tera',
   'peta',
